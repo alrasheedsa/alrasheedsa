@@ -16,22 +16,47 @@
 ### 🚀 About Me
 
 I am a **Computer Science Graduate** (GPA **4.07/5.00**) based in **Riyadh, Saudi Arabia** 🇸🇦. 
-I specialize in building scalable backend systems and intelligent AI applications. My engineering philosophy combines robust software architecture with modern machine learning techniques to solve real-world problems.
+I specialize in building scalable backend systems, data-driven applications, and intelligent AI solutions. My engineering philosophy combines robust software architecture with modern machine learning techniques to solve real-world problems.
 
 - 🔭 **I’m currently working on:** Real-time Computer Vision systems using Python & OpenCV.
 - 💼 **Experience:** Former Full Stack Intern at King Fahad Medical City (KFMC).
 - 🎓 **Education:** B.S. in Computer Science, Al-Majma’ah University.
-- 🛠️ **Focus:** Backend Engineering, AI Agents, and DevOps.
+- 🛠️ **Focus:** Backend Engineering, AI Agents, Data Science, and DevOps.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
 <div align="center">
 
-| **Languages** | **AI & Data** | **Backend & Tools** |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) <br> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) <br> ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) <br> ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+#### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### **AI, Data Science & Analysis**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+#### **Backend & Frameworks**
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=openapi&logoColor=white)
+
+#### **Tools, DevOps & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
 </div>
 
@@ -39,12 +64,10 @@ I specialize in building scalable backend systems and intelligent AI application
 
 ### 🏆 Featured Projects
 
-Here are some of the projects I've been working on:
-
 | **Project** | **Description** | **Tech Stack** |
 |:---|:---|:---|
-| 👁️ **[Wireless Sound Control](https://github.com/alrasheedsa/Wireless-Sound-Control)** | Advanced AI system for hand gesture and face recognition control. Allows touchless interaction with system volume. | `Python` `OpenCV` `MediaPipe` |
-| 🏢 **[Employee Management System](https://github.com/alrasheedsa/Employee-Management-System-ASPNET)** | A comprehensive Full-stack management system for enterprise resource planning. | `C#` `ASP.NET` `SQL Server` |
+| 👁️ **[Wireless Sound Control](https://github.com/alrasheedsa/Wireless-Sound-Control)** | Advanced AI system for hand gesture and face recognition control. Allows touchless interaction with system volume. | `Python` `OpenCV` `MediaPipe` `NumPy` |
+| 🏢 **[Employee Management System](https://github.com/alrasheedsa/Employee-Management-System-ASPNET)** | A comprehensive Full-stack management system for enterprise resource planning (ERP). | `C#` `ASP.NET Core` `SQL Server` `HTML/CSS` |
 
 ---
 
