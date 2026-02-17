@@ -65,8 +65,8 @@ I specialize in building scalable backend systems, data-driven applications, and
 
 | **Project** | **Description** | **Tech Stack** |
 |:---|:---|:---|
-| 👁️ **[Wireless Sound Control](https://github.com/alrasheedsa/Wireless-Sound-Control)** | Advanced AI system for hand gesture and face recognition control. Allows touchless interaction with system volume. | `Python` `OpenCV` `MediaPipe` `NumPy` |
-| 🏢 **[Employee Management System](https://github.com/alrasheedsa/Employee-Management-System-ASPNET)** | A comprehensive Full-stack management system for enterprise resource planning (ERP). | `C#` `ASP.NET Core` `SQL Server` `HTML/CSS` |
+| 👁️ **[Wireless Sound Control](https://github.com/alrasheedsa/Wireless-Sound-Control)** | Advanced AI system for hand gesture and face recognition control built with Python and OpenCV. | `Python (Flask)` `OpenCV` `MediaPipe` `Face-Recognition` `PyCaw` `Socket.IO` `MySQL` |
+| 🏢 **[Employee Management System](https://github.com/alrasheedsa/Employee-Management-System-ASPNET)** | A Full-stack management system using C# and SQL Server. |`C# (.NET Framework)` `ASP.NET Web Forms` `ADO.NET` `SQL Server` `Bootstrap` `JavaScript` |
 
 ---
 
