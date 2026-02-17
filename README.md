@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-I am a **Computer Science Graduate** based in **Riyadh, Saudi Arabia**. 
+I am a **Computer Science Graduate** (GPA **4.07/5.00**) based in **Riyadh, Saudi Arabia** 🇸🇦. 
 I specialize in building scalable backend systems, data-driven applications, and intelligent AI solutions. My engineering philosophy combines robust software architecture with modern machine learning techniques to solve real-world problems.
 
 - 💼 **Experience:** Full Stack Developer Intern at King Fahad Medical City (KFMC).
@@ -55,6 +55,7 @@ I specialize in building scalable backend systems, data-driven applications, and
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
 </div>
 
