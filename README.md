@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-I am a **Computer Science Graduate** (GPA **4.07/5.00**) based in **Riyadh, Saudi Arabia** 🇸🇦. 
+I am a **Computer Science Graduate** based in **Riyadh, Saudi Arabia** 🇸🇦. 
 I specialize in building scalable backend systems, data-driven applications, and intelligent AI solutions. My engineering philosophy combines robust software architecture with modern machine learning techniques to solve real-world problems.
 
 - 💼 **Experience:** Full Stack Developer Intern at King Fahad Medical City (KFMC).
