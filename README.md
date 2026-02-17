@@ -70,13 +70,7 @@ I specialize in building scalable backend systems, data-driven applications, and
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alrasheedsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrasheedsa&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
-</div>
 
 <div align="center">
   <br>
