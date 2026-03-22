@@ -48,13 +48,11 @@ Currently training at **Tuwaiq Academy** in Java, Spring Boot, Spring Security, 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=openapi&logoColor=white)
 
 #### **AI, Data Science & Analysis**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 #### **Database & ORM**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
@@ -95,5 +93,5 @@ Currently training at **Tuwaiq Academy** in Java, Spring Boot, Spring Security, 
 
 <div align="center">
   <br>
-  <i>"First, solve the problem. Then, write the code."</i>
+  <i>""</i>
 </div>
