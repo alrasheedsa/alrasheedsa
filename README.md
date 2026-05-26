@@ -20,7 +20,7 @@ I specialize in building scalable backend systems, RESTful APIs, and intelligent
 Currently training at **Tuwaiq Academy** in Java, Spring Boot, Spring Security, and AI Integration.
 
 - 💼 **Experience:** Full Stack Developer Intern — King Fahad Medical City (KFMC)
-- 🎓 **Education:** B.S. in Computer Science, Al-Majma'ah University — GPA: 4.07 / 5.00
+- 🎓 **Education:** B.S. in Computer Science, Al-Majma'ah University
 - 🏋️ **Training:** Backend Web Development — Tuwaiq Academy (Java · Spring Boot · AWS)
 - 🛠️ **Focus:** Backend Engineering · Software Engineering · AI Integration
 
@@ -84,10 +84,9 @@ Currently training at **Tuwaiq Academy** in Java, Spring Boot, Spring Security, 
 
 ### 📜 Certifications
 
+- 📊 **McKinsey Forward Program** — *(May 2026)*
+- 💻 **Developing Skills in Artificial Intelligence** — AI ERA NEON Bootcamp *(May 2026)*
 - 🏅 **Machine Learning Specialization** — Stanford Online & DeepLearning.AI *(Dec 2025)*
-- 📊 **Data Analysis Virtual Work Experience** — Misk Foundation & STC *(Jan 2026)*
-- 💻 **Introduction to Software Engineering** — IBM, Coursera *(Dec 2023)*
-- 🧮 **Data Structures** — UC San Diego, Coursera *(Dec 2023)*
 
 ---
 
