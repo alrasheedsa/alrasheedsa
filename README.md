@@ -76,7 +76,7 @@ Currently training at **Tuwaiq Academy** in Java, Spring Boot, Spring Security, 
 
 | **Project** | **Description** | **Tech Stack** |
 |:---|:---|:---|
-| 🎓 **[Saudi Tour Link - Smart Tourism Platform](https://github.com/alrasheedsa/Saudi-Tour-Link-Project.git) ** | A comprehensive Spring Boot REST API built for smart tourism and package planning. The platform enables efficient vendor discovery, seamless package creation, AI-driven personalized itinerary recommendations, and real-time email and WhatsApp communication.  | `Java` `Spring Boot` `OpenAI API` `Gmail SMTP` `UltraMsg` `Hibernate` `JPA` |
+| 🎓 [Saudi Tour Link - Smart Tourism Platform](https://github.com/alrasheedsa/Saudi-Tour-Link-Project.git) | A comprehensive Spring Boot REST API built for smart tourism and package planning. The platform enables efficient vendor discovery, seamless package creation, AI-driven personalized itinerary recommendations, and real-time email and WhatsApp communication.  | `Java` `Spring Boot` `OpenAI API` `Gmail SMTP` `UltraMsg` `Hibernate` `JPA` |
 | 👁️ **[Wireless Sound Control](https://github.com/alrasheedsa/Wireless-Sound-Control)** | AI-powered real-time hand gesture and facial recognition system for volume control. | `Python` `OpenCV` `MediaPipe` `TensorFlow` `PyCaw` `Socket.IO` `MySQL` |
 | 🏢 **[Employee Management System](https://github.com/alrasheedsa/Employee-Management-System-ASPNET)** | Secure full-stack management system with RBAC, ADO.NET, and automated SMTP notifications. | `C#` `.NET Framework` `ASP.NET Web Forms` `ADO.NET` `SQL Server` `Bootstrap` |
 
