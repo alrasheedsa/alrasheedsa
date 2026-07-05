@@ -13,11 +13,9 @@
 
 ---
 
-### 🚀 About Me
+### 👋 Hi, I'm Mohammed Alrasheed
 
-I am a **Computer Science Graduate** based in **Riyadh, Saudi Arabia** 🇸🇦.
-I specialize in building scalable backend systems, RESTful APIs, and intelligent AI-powered solutions.
-Currently training at **Tuwaiq Academy** in Java, Spring Boot, Spring Security, and AI Integration.
+Backend & AI Software Engineer specializing in Java, Spring Boot, and cloud-native backend systems. I enjoy building secure, scalable APIs and integrating AI into real-world applications that solve meaningful business problems.
 
 - 💼 **Experience:** Full Stack Developer Intern — King Fahad Medical City (KFMC)
 - 🎓 **Education:** B.S. in Computer Science, Al-Majma'ah University
